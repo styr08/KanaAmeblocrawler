@@ -6,6 +6,9 @@ It's my first crawler project and I'm trying to study.
 
 The repository is to save the code and the resources that I have referenced.
 
+# Logs
+2020-1-20 Start the project, try to use Scrapy.
+
 # Resources
 
 ## Python
